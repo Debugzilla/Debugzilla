@@ -1,8 +1,5 @@
 # 👨‍💻 Arnau Erta | Software Engineer
 
-<p align="center">
-  <img src="https://github.com/ArnauErta.png" alt="Arnau Erta's Profile Picture" width="150">
-</p>
 
 ---
 
@@ -25,7 +22,7 @@
 
 ---
 
-### 🌍 Full Stack Projects
+### 🌍 Projects
 - 🌐 [My Website](https://mywebsite.com)
 - 🦠 [COVID-19 Dashboard](https://github.com/ArnauErta/COVID-19-Dashboard)
 - 🗣️ [Voice Poker](https://github.com/ArnauErta/Voice-Poker)
@@ -35,18 +32,11 @@
 
 ---
 
-### 🛡️ Cybersecurity Projects
-- 🩸 [Heartbleed Analysis](https://github.com/ArnauErta/Heartbleed-Analysis)
-- 🌊 [SYN Flood Mitigation](https://github.com/ArnauErta/SYN-Flood)
-- 🧾 [Packet Sniffing & Spoofing](https://github.com/ArnauErta/Packet-Sniffing)
-- 💉 [SQL Injection Attacks](https://github.com/ArnauErta/SQL-Injection)
-- 🛡️ [Spectre & Meltdown Vulnerabilities](https://github.com/ArnauErta/Spectre-Meltdown)
-- 🌐 [Network Tools](https://github.com/ArnauErta/Network-Tools)
-
----
-
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArnauErta&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArnauErta&show_icons=true&theme=dark&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=79ff97)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArnauErta&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArnauErta&theme=dark&background=0d1117&border=ffffff)
+
+### 🌐 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnauErta&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
