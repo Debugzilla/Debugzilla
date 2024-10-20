@@ -8,14 +8,11 @@
 
 ### 🛠️ Languages
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+
 
 ---
 
@@ -24,10 +21,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 
 ---
