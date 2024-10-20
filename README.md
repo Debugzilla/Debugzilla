@@ -1,5 +1,9 @@
 # 👨‍💻 Arnau Erta | Software Engineer
 
+<div align="center">
+  <img src="fondo6.png" alt="Background Image" width="100%">
+</div>
+
 
 ---
 
