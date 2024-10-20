@@ -33,10 +33,10 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArnauErta&show_icons=true&theme=dark&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=79ff97)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debugzillaa&show_icons=true&theme=dark&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=79ff97)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArnauErta&theme=dark&background=0d1117&border=ffffff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Debugzila&theme=dark&background=0d1117&border=ffffff)
 
 ### 🌐 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnauErta&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debugzilla&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
