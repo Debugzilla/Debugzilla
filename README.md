@@ -25,11 +25,10 @@
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 
 ---
-
 ### 🌍 Projects
 - 🌐 [My Website](https://mywebsite.com)
 - 🦠 [COVID-19 Dashboard](https://github.com/ArnauErta/COVID-19-Dashboard)
-- 🗣️ [Loan Calculator]([https://github.com/Debugzilla/LoanCalculator/blob/master/Loan%20Calculator/task/creditcalc/creditcalc.py])
+- 🗣️ [Loan Calculator](https://github.com/Debugzilla/LoanCalculator/blob/master/Loan%20Calculator/task/creditcalc/creditcalc.py)
 - 📜 [Summarizer](https://github.com/ArnauErta/Summarizer)
 - 🛰️ [KubeSat](https://github.com/ArnauErta/KubeSat)
 - 🌍 [Pokémon Go Map](https://github.com/ArnauErta/PokemonGo-Map)
