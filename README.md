@@ -27,6 +27,7 @@
 ---
 ### 🌍 Projects
 - 💵 [Loan Calculator](https://github.com/Debugzilla/LoanCalculator/blob/master/Loan%20Calculator/task/creditcalc/creditcalc.py)
+- [Bill Splitter](https://github.com/Debugzilla/BillSplitter)
 
 
 ---
