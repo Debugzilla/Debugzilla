@@ -25,14 +25,40 @@
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 
 ---
-### 🌍 Projects
+# 🐍 Python Projects
+Here is a list of Python projects:
+
+### 💵 Loan Calculator
+A simple Python application to calculate loan payments based on principal, interest rate, and duration.
 - 💵 [Loan Calculator](https://github.com/Debugzilla/LoanCalculator/blob/master/Loan%20Calculator/task/creditcalc/creditcalc.py)
+
+### 💸 Bill Splitter
+A Python app that helps split bills among friends, calculating how much each person owes.
 - [Bill Splitter](https://github.com/Debugzilla/BillSplitter)
+
+### ✊ Rock Paper Scissors Game
+A command-line game where you play rock-paper-scissors against the computer.
 - [Rock Paper Scissor Game](https://github.com/Debugzilla/Rock-Paper-Scissors)
+
+### ✏️ Last Pencil Game
+A fun Python game where the player has to strategically take pencils until only one remains.
 - [Last Pencil Game](https://github.com/Debugzilla/Last_Pencil_Game)
+
+
+### 📁 File Manager App
+A Python file management application to organize and manipulate files and directories.
 - [File Manager App](https://github.com/Debugzilla//File-Manager)
+
+### ❌ Tic Tac Toe Game
+A classic Tic Tac Toe game implemented in Python, where two players can play against each other.
 - [Tic Tac Toe Game](https://github.com/Debugzilla//Simple_TicTacToe)
+
+### 🎲 Domino Game
+A digital version of the Domino game made with Python, playable by two players.
 - [Domino Game](https://github.com/Debugzilla//Domino_Game)
+
+### 💱 Currency Converter
+A Python app that converts an amount from one currency to another based on real-time exchange rates using API of floatrates.
 - [Currency Converter](https://github.com/Debugzilla///CurrencyConverter)
 
 
