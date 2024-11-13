@@ -33,6 +33,7 @@
 - [File Manager App](https://github.com/Debugzilla//File-Manager)
 - [Tic Tac Toe Game](https://github.com/Debugzilla//Simple_TicTacToe)
 - [Domino Game](https://github.com/Debugzilla//Domino_Game)
+- [Currency Converter](https://github.com/Debugzilla///CurrencyConverter)
 
 
 
