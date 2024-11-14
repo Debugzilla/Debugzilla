@@ -16,6 +16,10 @@
 
 
 ---
+### 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnau-erta/)
+
+---
 
 ### ⚙️ Technologies
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
