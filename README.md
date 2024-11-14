@@ -60,7 +60,7 @@ A digital version of the Domino game made with Python, playable by two players.
 A Python app that converts an amount from one currency to another based on real-time exchange rates using API of floatrates.
 - [Currency Converter](https://github.com/Debugzilla///CurrencyConverter)
 
-### 💱 Arithmetic Exam Application
+### ✖️ Arithmetic Exam Application
 is a Python-based application designed to help users practice basic arithmetic operations such as addition, subtraction, multiplication, and division. The app presents random arithmetic problems and evaluates the user's answers. This is a great tool for students or anyone looking to improve their math skills.
 - [Arithmetic Exam Application](https://github.com/Debugzilla///Arithmetic_Exam_Application)
 
