@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ Languages
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+[![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://github.com/Debugzilla?tab=repositories&q=python&type=repositories)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
