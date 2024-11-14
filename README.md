@@ -10,7 +10,7 @@
 ### 🛠️ Languages
 [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://github.com/Debugzilla?tab=repositories&q=&type=&language=python&sort=)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+[![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)](https://github.com/Debugzilla?tab=repositories&q=&type=&language=java&sort=)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
 
