@@ -44,7 +44,6 @@ A command-line game where you play rock-paper-scissors against the computer.
 A fun Python game where the player has to strategically take pencils until only one remains.
 - [Last Pencil Game](https://github.com/Debugzilla/Last_Pencil_Game)
 
-
 ### 📁 File Manager App
 A Python file management application to organize and manipulate files and directories.
 - [File Manager App](https://github.com/Debugzilla//File-Manager)
@@ -62,7 +61,7 @@ A Python app that converts an amount from one currency to another based on real-
 - [Currency Converter](https://github.com/Debugzilla///CurrencyConverter)
 
 ### 💱 Arithmetic Exam Application
-A Python app that converts an amount from one currency to another based on real-time exchange rates using API of floatrates.
+is a Python-based application designed to help users practice basic arithmetic operations such as addition, subtraction, multiplication, and division. The app presents random arithmetic problems and evaluates the user's answers. This is a great tool for students or anyone looking to improve their math skills.
 - [Arithmetic Exam Application](https://github.com/Debugzilla///Arithmetic_Exam_Application)
 
 
